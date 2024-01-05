@@ -1,5 +1,5 @@
 # MS-H310CM-Hackintosh-OC-EFI
-MAXSUN铭瑄挑战者-H310CM-i5-8500-RX580
+MAXSUN铭瑄挑战者-H310CM-i5-8500-RX570
 
 适用于8/9代coffeelake平台
 
